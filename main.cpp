@@ -3,5 +3,5 @@
 #include "src/todo.hpp"
 
 int main() {
-  std::cout << hello() << std::endl;
+  std::cout << todo() << std::endl;
 }

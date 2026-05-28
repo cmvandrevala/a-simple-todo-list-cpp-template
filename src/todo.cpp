@@ -1,5 +1,5 @@
 #include <string>
 
-std::string hello() {
-   return "Hello World! You can delete this function.";
+std::string todo() {
+   return "This is an example function. You can delete it when you start this lab!";
 }
